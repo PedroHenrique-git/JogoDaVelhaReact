@@ -2,5 +2,5 @@
 
 <p>
     Jogo da velha em react js<br/>
-    <p><b>obs: Este projeto foi feito com base no tutorial de introdução a tecnologia da própria documentação do React </b></p>
+    <p><b>obs: Este projeto foi feito com base no tutorial de introdução a tecnologia, que está disponível na própria documentação do React</b></p>
 </p>
