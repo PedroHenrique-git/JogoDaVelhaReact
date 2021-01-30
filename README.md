@@ -1,6 +1,19 @@
-<h1>Jogo da velha ReactJs</h1>
+# Tic Tac Toe
 
-<p>
-    Jogo da velha em react js<br/>
-    <p><b>obs: Este projeto foi feito com base no tutorial de introdução a tecnologia, que está disponível na própria documentação do React</b></p>
-</p>
+Tic Tac Toe in ReactJs
+
+note: This project was made based on the tutorial to introduce the technology, which is available in the React documentation itself
+
+## Getting Started
+
+install dependencies: <b>npm run install</b> 
+
+start project: <b>npm run start</b>
+
+## Built With
+
+* [ReactJs](https://pt-br.reactjs.org/) 
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
