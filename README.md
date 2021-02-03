@@ -6,7 +6,7 @@ note: This project was made based on the tutorial to introduce the technology, w
 
 ## Getting Started
 
-install dependencies: <b>npm run install</b> 
+install dependencies: <b>npm install</b> 
 
 start project: <b>npm run start</b>
 
